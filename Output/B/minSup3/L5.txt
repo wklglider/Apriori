@@ -1,0 +1,4 @@
+The number of frequent candidates: 4
+Computation time: 0
+The list of all frequent candidates:
+{[38, 39, 36, 48, 41]=4, [39, 89, 38, 41, 48]=3, [38, 170, 41, 39, 48]=3, [48, 110, 38, 39, 41]=4}

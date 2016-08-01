@@ -1,0 +1,4 @@
+The number of generated candidates: 2
+Computation time: 1
+The list of all generated candidates:
+[[38, 39, 36, 48, 41], [48, 110, 38, 39, 41]]

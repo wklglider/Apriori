@@ -1,0 +1,4 @@
+The number of frequent candidates: 6
+Computation time: 5
+The list of all frequent candidates:
+{32=10, 36=8, 38=26, 39=57, 41=24, 48=47}

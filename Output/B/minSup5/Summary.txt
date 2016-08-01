@@ -1,0 +1,6 @@
+The minSupport value: 5
+Total computation time for the CandidateGenerator: 144
+Total computation time for the SupportCoutner: 53
+Total computation time: 197
+Total number of frequent itemsets: 194
+Total number of infrequent itemsets: 2327

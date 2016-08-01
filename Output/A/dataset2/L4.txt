@@ -1,0 +1,4 @@
+The number of frequent candidates: 7
+Computation time: 1
+The list of all frequent candidates:
+{[38, 39, 170, 41]=6, [38, 39, 48, 41]=17, [32, 48, 39, 41]=7, [38, 110, 41, 39]=8, [36, 39, 41, 38]=6, [38, 39, 48, 36]=6, [38, 39, 48, 170]=8}
